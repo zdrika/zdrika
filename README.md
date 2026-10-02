@@ -8,9 +8,9 @@
 
 •  **Aprendendo atualmente:**
 
-🐍⠀ ⠀Python
+🐍⠀⠀**Python**
 
-⌨️⠀ ⠀Powershell
+⌨️⠀ **Powershell**
 
-📖⠀ ⠀Excel
+📖⠀⠀**Excel**
      
